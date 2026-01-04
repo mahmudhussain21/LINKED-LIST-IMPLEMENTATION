@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+Task 2: Singly Linked List Implementation in C
+
 Introduction
 
 Task 2 of the CODTECH Internship is focused on the implementation of a Singly Linked List using the C programming language. Data structures are the backbone of efficient programming, and among them, the linked list is one of the most fundamental and widely used dynamic data structures. This task aims to provide practical exposure to how data can be stored, managed, and manipulated dynamically in memory without relying on fixed-size structures like arrays.
