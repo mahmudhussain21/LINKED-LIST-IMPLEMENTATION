@@ -224,3 +224,5 @@ Completing this task significantly improves understanding of linked lists and pr
 
 #OUTPUT
 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/e7a270fe-e76f-4b91-8921-8a1cd2f85f44" />
+
